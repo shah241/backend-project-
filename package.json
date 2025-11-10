@@ -1,0 +1,16 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "full stack app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shahzeb",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
